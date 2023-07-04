@@ -1,4 +1,4 @@
-package com.example.baluev_pr_9;
+package com.example.vitalya_pr_9;
 
 import androidx.appcompat.app.AppCompatActivity;
 
